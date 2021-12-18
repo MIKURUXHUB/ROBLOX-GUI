@@ -222,8 +222,6 @@ do
 				Position = UDim2.new(0.25, 0, 0.052435593, 0),
 				Size = UDim2.new(0, 511, 0, 428),
 				BackgroundColor3 = themes.Background,
-				ScaleType = Enum.ScaleType.Slice,
-				SliceCenter = Rect.new(4, 4, 296, 296)
 			}, {
 				utility:Create("ImageLabel", {
 					Name = "Glow",
